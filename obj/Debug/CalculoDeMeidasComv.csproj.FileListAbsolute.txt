@@ -1,0 +1,7 @@
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.exe.config
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.exe
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.pdb
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.csproj.AssemblyReference.cache
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.exe
+G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.pdb
