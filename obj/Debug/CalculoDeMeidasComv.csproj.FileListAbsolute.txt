@@ -5,3 +5,10 @@ G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDe
 G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.csproj.CoreCompileInputs.cache
 G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.exe
 G:\Meu Drive\Codigos\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.pdb
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.exe.config
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.exe
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\bin\Debug\CalculoDeMeidasComv.pdb
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.csproj.AssemblyReference.cache
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.exe
+C:\Users\wesle\Documents\CalculoDeMeidasComv\CalculoDeMeidasComv\obj\Debug\CalculoDeMeidasComv.pdb
