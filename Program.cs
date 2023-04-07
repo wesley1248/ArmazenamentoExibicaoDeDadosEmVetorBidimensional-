@@ -11,7 +11,7 @@ namespace CalculoDeMediasComVetorBidimensional
     {
         static void Main(string[] args)
         {
-            //Pedido de entrada para o usuario digitar a quantidade de linhas e colunas da matrix.
+            //Pedido de entrada para o usuario digitar a quantidade de linhas e colunas da matriz.
             Console.Write("Digite a quantidade de linhas ");
             int linhas = int.Parse(Console.ReadLine());
             Console.Write("Digite a quantidade de colunas ");
@@ -23,7 +23,7 @@ namespace CalculoDeMediasComVetorBidimensional
             int conclusao = 0;
             int e = 1;
 
-            //Armazenagem de dados dentro da matrix
+            //Armazenagem de dados dentro da matriz
             for (int i = 0; i < linhas; i++)
             {
                 for (int j = 0; j < colunas; j++) 
@@ -38,11 +38,8 @@ namespace CalculoDeMediasComVetorBidimensional
                     Console.WriteLine("LINHAS E COLUNAS REGISTRADAS");
                     conclusao = 0;
                     Console.WriteLine();
+             //Exibiçao dos numeros armazenados na Matriz       
                 }
-
-                //Trecho de codigo para exibir os numeros armazenados dentro das variaveis
-                //Console.Write($"EXIBIÇAO DE REGISTRO NUMERO {e} ");
-                //conclusao = +1;
                 for (int a = 0; a < matrix.GetLength(0); a++) 
                 {
                     for(int b = 0; b < matrix.GetLength(1); b++)
